@@ -1,11 +1,11 @@
-from lxml import etree
 import openpyxl
+from lxml import etree
 
 
 def xlsx_to_list(doc):
     wb = openpyxl.load_workbook(doc)
-    sheet = wb['Sheet1']
-    return [[cell.value for cell in row[1:3]] for row in sheet.rows]
+    sheet = wb['Set for Vote']
+    return [[cell.value for cell in row[1:4]] for row in sheet.rows][1:]
 
 
 class LsgBuilder:
@@ -58,7 +58,8 @@ class LsgBuilder:
             elif child.tag == 'title':
                 child.text = self.cdata(self.get_title(data[self.index - 1][0]))
             elif child.tag == 'question':
-                child.text = self.cdata(data[self.index - 1][1])
+                child.text = self.cdata(
+                    str.format("<p>{0}</p><p>{1}</p>", data[self.index - 1][1], data[self.index - 1][2]))
 
         row = root[1][1]
         for child in row:
@@ -79,6 +80,6 @@ class LsgBuilder:
         return title
 
 
-data = xlsx_to_list('Problem Proposals 2018.xlsx')
+data = xlsx_to_list('Problem Proposals 2018 Vote.xlsx')
 builder = LsgBuilder(data)
 builder.make_survey()
