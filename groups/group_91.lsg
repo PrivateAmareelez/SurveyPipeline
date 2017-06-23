@@ -20,7 +20,7 @@
             <row>
                 <gid><![CDATA[91]]></gid>
                 <sid><![CDATA[763234]]></sid>
-                <group_name><![CDATA[Teamughovercraft]]></group_name>
+                <group_name><![CDATA[ID2018105]]></group_name>
                 <group_order><![CDATA[90]]></group_order>
                 <description/>
                 <language><![CDATA[en]]></language>
@@ -56,8 +56,9 @@
                 <sid><![CDATA[763234]]></sid>
                 <gid><![CDATA[91]]></gid>
                 <type><![CDATA[5]]></type>
-                <title><![CDATA[Teamughovercraft]]></title>
-                <question><![CDATA[Physicists like drinking tea, but sometimes spillages due to overfilling the mug happen. This can cause a low friction state, the mug start sliding and may fell off even from a nearly horizontal table. Study and explain the phenomenon. ]]></question>
+                <title><![CDATA[ID2018105]]></title>
+                <question>
+                    <![CDATA[<p>Severed Heads</p><p>One can observe an interesting fenomena occuring with severed heads of matches in water. If you place mathes' heads into plastic bottle of water and press the bottle, heads go down. If you release pressure, heads go up. Investigate the phenomena. Can the same effect be observed in other liquid e.g. sparkling water, organic solvents (acetone, ethyl alcohol), milk? Can other materials except of mathes' heads perform in the same way in water?</p>]]></question>
                 <preg/>
                 <help/>
                 <other><![CDATA[N]]></other>

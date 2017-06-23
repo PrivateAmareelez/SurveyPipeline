@@ -13,7 +13,7 @@ class LsgBuilder:
         self.data = data
         self.index = 0
 
-        example = open("limesurvey_group_1.lsg", "r")
+        example = open("sample.lsg", "r")
         self.tree = etree.parse(example, parser=etree.XMLParser(strip_cdata=False))
         self.root = self.tree.getroot()
 

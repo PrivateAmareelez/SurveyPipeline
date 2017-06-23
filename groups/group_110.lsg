@@ -20,7 +20,7 @@
             <row>
                 <gid><![CDATA[110]]></gid>
                 <sid><![CDATA[763234]]></sid>
-                <group_name><![CDATA[YutNori]]></group_name>
+                <group_name><![CDATA[ID2018136]]></group_name>
                 <group_order><![CDATA[109]]></group_order>
                 <description/>
                 <language><![CDATA[en]]></language>
@@ -56,8 +56,9 @@
                 <sid><![CDATA[763234]]></sid>
                 <gid><![CDATA[110]]></gid>
                 <type><![CDATA[5]]></type>
-                <title><![CDATA[YutNori]]></title>
-                <question><![CDATA[In a variety of games, random variables are introduced with coins, dice, or in some cases Yut sticks. As the Yut stick is round in one half and flat in the other, the outcome of which side comes front can be somewhat controlled. For example, when rolling the stick on a hard floor, the flat side is more likely to be down. In contrast, when thrown high to fall on a soft surface, as it has the larger surface area, the round side is more likely to be down. By using these biases what are your chances of winning a game of Yut-Nori against a player of random tosses? How does this probability depend on the various parameters such as floor softness?]]></question>
+                <title><![CDATA[ID2018136]]></title>
+                <question>
+                    <![CDATA[<p>Waves in a Cylinder</p><p>A horizontal cylinder is partially filled with a viscous fluid. If the cylinder is rotated around its long axis, unusual fluid behavior can be observed, such as sharp cusp-like waves on the walls of the cylinder. Investigate the fluid behavior as a function of relevant parameters.</p>]]></question>
                 <preg/>
                 <help/>
                 <other><![CDATA[N]]></other>

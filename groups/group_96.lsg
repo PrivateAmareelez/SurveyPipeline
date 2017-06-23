@@ -20,7 +20,7 @@
             <row>
                 <gid><![CDATA[96]]></gid>
                 <sid><![CDATA[763234]]></sid>
-                <group_name><![CDATA[Theremin]]></group_name>
+                <group_name><![CDATA[ID2018114]]></group_name>
                 <group_order><![CDATA[95]]></group_order>
                 <description/>
                 <language><![CDATA[en]]></language>
@@ -56,8 +56,9 @@
                 <sid><![CDATA[763234]]></sid>
                 <gid><![CDATA[96]]></gid>
                 <type><![CDATA[5]]></type>
-                <title><![CDATA[Theremin]]></title>
-                <question><![CDATA[Construct a Theremin instrument where the pitch and volume can be varied via non-contact hand movements. Investigate the parameters which affect the pitch and volume and attempt to create a notation which would allow someone to play a simple tune.]]></question>
+                <title><![CDATA[ID2018114]]></title>
+                <question>
+                    <![CDATA[<p>Station Electricity</p><p>If you walk across a Linoleum floor with thick synthetic shoes you will experience a slightly painful electric discharge when you touch a grounded electricaly conducting object like a metal doorknob. Investigate this phenomenon.</p>]]></question>
                 <preg/>
                 <help/>
                 <other><![CDATA[N]]></other>

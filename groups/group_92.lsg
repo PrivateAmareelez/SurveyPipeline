@@ -20,7 +20,7 @@
             <row>
                 <gid><![CDATA[92]]></gid>
                 <sid><![CDATA[763234]]></sid>
-                <group_name><![CDATA[TearsOfWine]]></group_name>
+                <group_name><![CDATA[ID2018106]]></group_name>
                 <group_order><![CDATA[91]]></group_order>
                 <description/>
                 <language><![CDATA[en]]></language>
@@ -56,8 +56,9 @@
                 <sid><![CDATA[763234]]></sid>
                 <gid><![CDATA[92]]></gid>
                 <type><![CDATA[5]]></type>
-                <title><![CDATA[TearsOfWine]]></title>
-                <question><![CDATA[When you swirl wine in a glass and wait for a short while, you can obtain effect known to wine tasters as tears of wine. Determine the factors that influence the characteristic time and length in this phenomenon. ]]></question>
+                <title><![CDATA[ID2018106]]></title>
+                <question>
+                    <![CDATA[<p>Shell Polygons</p><p>Apply localized pressure to an elastic spherical shell, such as a ping pong ball. Often the deformation of the shell will take shape of a regular polygon. Investigate how the shape of the indentation depends on the relevant parameters.</p>]]></question>
                 <preg/>
                 <help/>
                 <other><![CDATA[N]]></other>

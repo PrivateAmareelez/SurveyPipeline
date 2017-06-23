@@ -20,7 +20,7 @@
             <row>
                 <gid><![CDATA[99]]></gid>
                 <sid><![CDATA[763234]]></sid>
-                <group_name><![CDATA[Tsunami]]></group_name>
+                <group_name><![CDATA[ID2018118]]></group_name>
                 <group_order><![CDATA[98]]></group_order>
                 <description/>
                 <language><![CDATA[en]]></language>
@@ -56,8 +56,9 @@
                 <sid><![CDATA[763234]]></sid>
                 <gid><![CDATA[99]]></gid>
                 <type><![CDATA[5]]></type>
-                <title><![CDATA[Tsunami]]></title>
-                <question><![CDATA[This type waves is a big problem for seismic areas in the world. Investigate formation, travelling and destroying this waves. Make device, which we can use like breakwater.]]></question>
+                <title><![CDATA[ID2018118]]></title>
+                <question>
+                    <![CDATA[<p>Tablecloth Pull</p><p>Magicians often show a trick called "tablecloth pull". A table is covered with a tablecloth, on top of which are some dishes, and under certain circumstances it is possible to remove the tablecloth by pulling it while the dishes stay on top of the table. Investigate the parameters which have influence on the phenomenon.</p>]]></question>
                 <preg/>
                 <help/>
                 <other><![CDATA[N]]></other>

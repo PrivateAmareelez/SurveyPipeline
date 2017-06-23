@@ -20,7 +20,7 @@
             <row>
                 <gid><![CDATA[93]]></gid>
                 <sid><![CDATA[763234]]></sid>
-                <group_name><![CDATA[TeslaValve]]></group_name>
+                <group_name><![CDATA[ID2018107]]></group_name>
                 <group_order><![CDATA[92]]></group_order>
                 <description/>
                 <language><![CDATA[en]]></language>
@@ -56,8 +56,9 @@
                 <sid><![CDATA[763234]]></sid>
                 <gid><![CDATA[93]]></gid>
                 <type><![CDATA[5]]></type>
-                <title><![CDATA[TeslaValve]]></title>
-                <question><![CDATA[A Tesla Valve is a fixed-geometry passive one-direction valve. A Tesla Valve offers resistance 10-200 times greater in one direction compared to the other, in which the flow is turbulent. Create and investigate the relevant parameters of such a Tesla Valve!]]></question>
+                <title><![CDATA[ID2018107]]></title>
+                <question>
+                    <![CDATA[<p>Shower Curtain</p><p>In a shower with a shower curtain it is observed that the curtain bends inwards when the shower is used. Explain and investigate the phenomenon as a function of relevant parameters.</p>]]></question>
                 <preg/>
                 <help/>
                 <other><![CDATA[N]]></other>

@@ -20,7 +20,7 @@
             <row>
                 <gid><![CDATA[103]]></gid>
                 <sid><![CDATA[763234]]></sid>
-                <group_name><![CDATA[WaterBottleflip]]></group_name>
+                <group_name><![CDATA[ID2018123]]></group_name>
                 <group_order><![CDATA[102]]></group_order>
                 <description/>
                 <language><![CDATA[en]]></language>
@@ -56,8 +56,9 @@
                 <sid><![CDATA[763234]]></sid>
                 <gid><![CDATA[103]]></gid>
                 <type><![CDATA[5]]></type>
-                <title><![CDATA[WaterBottleflip]]></title>
-                <question><![CDATA[Flipping a water bottle - in which a water bottle is thrown so that it rotates and lands the right way up - went viral in 2016 with many videos of the trick. Investigate the parameters which affect the success of the trick and determine under which conditions the trick is most likely to be successful. ]]></question>
+                <title><![CDATA[ID2018123]]></title>
+                <question>
+                    <![CDATA[<p>The Flame That Always Go Up!</p><p>If we apply a continue voltage of moderate value (i.e.12V) between two conductors, uninsulated and sufficiently close, among them appears an electric flame. The flame go permanently up between the two wires, whether we lean or overturn the circuit! Explain the phenomenon according to relevant parameters !</p>]]></question>
                 <preg/>
                 <help/>
                 <other><![CDATA[N]]></other>

@@ -20,7 +20,7 @@
             <row>
                 <gid><![CDATA[106]]></gid>
                 <sid><![CDATA[763234]]></sid>
-                <group_name><![CDATA[Watersheet]]></group_name>
+                <group_name><![CDATA[ID2018128]]></group_name>
                 <group_order><![CDATA[105]]></group_order>
                 <description/>
                 <language><![CDATA[en]]></language>
@@ -56,9 +56,9 @@
                 <sid><![CDATA[763234]]></sid>
                 <gid><![CDATA[106]]></gid>
                 <type><![CDATA[5]]></type>
-                <title><![CDATA[Watersheet]]></title>
-                <question><![CDATA[When a small object such as a spoon is placed under a thin stream of water a thin, large water sheet can be formed. Explain the phenomenon and investigate how the properties of the water sheet depend on relevant parameters. 
-]]></question>
+                <title><![CDATA[ID2018128]]></title>
+                <question>
+                    <![CDATA[<p>Tsunami</p><p>This type waves is a big problem for seismic areas in the world. Investigate formation, travelling and destroying this waves. Make device, which we can use like breakwater.</p>]]></question>
                 <preg/>
                 <help/>
                 <other><![CDATA[N]]></other>

@@ -20,7 +20,7 @@
             <row>
                 <gid><![CDATA[94]]></gid>
                 <sid><![CDATA[763234]]></sid>
-                <group_name><![CDATA[Theflamethatalwaysgoup]]></group_name>
+                <group_name><![CDATA[ID2018110]]></group_name>
                 <group_order><![CDATA[93]]></group_order>
                 <description/>
                 <language><![CDATA[en]]></language>
@@ -56,8 +56,10 @@
                 <sid><![CDATA[763234]]></sid>
                 <gid><![CDATA[94]]></gid>
                 <type><![CDATA[5]]></type>
-                <title><![CDATA[Theflamethatalwaysgoup]]></title>
-                <question><![CDATA[If we apply a continue  voltage of moderate value (i.e.12V) between two conductors, uninsulated and sufficiently close, among them appears an electric flame. The flame go permanently up between the two wires, whether we lean or overturn the circuit! Explain the phenomenon according to relevant parameters !]]></question>
+                <title><![CDATA[ID2018110]]></title>
+                <question><![CDATA[<p>Snow Doughnuts</p><p>Snow Doughnuts
+
+Under certain conditions, hollow cylindrical snowballs, or snow 'doughnuts' are naturally formed. Establish the conditions for which such structures are formed and investigate the physical characteristics of the resulting snowball.</p>]]></question>
                 <preg/>
                 <help/>
                 <other><![CDATA[N]]></other>

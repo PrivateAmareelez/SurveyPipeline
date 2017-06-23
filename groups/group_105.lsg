@@ -20,7 +20,7 @@
             <row>
                 <gid><![CDATA[105]]></gid>
                 <sid><![CDATA[763234]]></sid>
-                <group_name><![CDATA[Waterjetflower]]></group_name>
+                <group_name><![CDATA[ID2018126]]></group_name>
                 <group_order><![CDATA[104]]></group_order>
                 <description/>
                 <language><![CDATA[en]]></language>
@@ -56,8 +56,9 @@
                 <sid><![CDATA[763234]]></sid>
                 <gid><![CDATA[105]]></gid>
                 <type><![CDATA[5]]></type>
-                <title><![CDATA[Waterjetflower]]></title>
-                <question><![CDATA[When a water jet falls on a flat but not too smooth surface, a distinctive circular pattern can be observed around the point of impact. Investigate its formation and identify relevant parameters.]]></question>
+                <title><![CDATA[ID2018126]]></title>
+                <question>
+                    <![CDATA[<p>Thread Monorail</p><p>Fix the thread under some angle. Place your device which can move along the thread with a baloon. Investigate how the efficacy of a device depends on the size of a baloon. For which of the part of such monorail the efficacy reaches maximum? Determine the dependence of carrying capacity on the relevant parameters.</p>]]></question>
                 <preg/>
                 <help/>
                 <other><![CDATA[N]]></other>

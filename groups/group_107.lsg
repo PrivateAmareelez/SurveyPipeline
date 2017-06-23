@@ -20,7 +20,7 @@
             <row>
                 <gid><![CDATA[107]]></gid>
                 <sid><![CDATA[763234]]></sid>
-                <group_name><![CDATA[WavesinaCylinder]]></group_name>
+                <group_name><![CDATA[ID2018129]]></group_name>
                 <group_order><![CDATA[106]]></group_order>
                 <description/>
                 <language><![CDATA[en]]></language>
@@ -56,8 +56,9 @@
                 <sid><![CDATA[763234]]></sid>
                 <gid><![CDATA[107]]></gid>
                 <type><![CDATA[5]]></type>
-                <title><![CDATA[WavesinaCylinder]]></title>
-                <question><![CDATA[A horizontal cylinder is partially filled with a viscous fluid. If the cylinder is rotated around its long axis, unusual fluid behavior can be observed, such as sharp cusp-like waves on the walls of the cylinder. Investigate the fluid behavior as a function of relevant parameters.]]></question>
+                <title><![CDATA[ID2018129]]></title>
+                <question>
+                    <![CDATA[<p>Violin Music!</p><p>When a body is sliding on a support will hear a sound due to friction between the two bodies. Try to establish a connection between the coefficient of sliding friction and sound.</p>]]></question>
                 <preg/>
                 <help/>
                 <other><![CDATA[N]]></other>

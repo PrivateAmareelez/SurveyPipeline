@@ -20,7 +20,7 @@
             <row>
                 <gid><![CDATA[104]]></gid>
                 <sid><![CDATA[763234]]></sid>
-                <group_name><![CDATA[Waterbottleflipchallenge]]></group_name>
+                <group_name><![CDATA[ID2018125]]></group_name>
                 <group_order><![CDATA[103]]></group_order>
                 <description/>
                 <language><![CDATA[en]]></language>
@@ -56,8 +56,9 @@
                 <sid><![CDATA[763234]]></sid>
                 <gid><![CDATA[104]]></gid>
                 <type><![CDATA[5]]></type>
-                <title><![CDATA[Waterbottleflipchallenge]]></title>
-                <question><![CDATA[A challenge called "Water bottle flip challenge" that involves throwing a plastic water bottle, typically full or partially full of liquid, into the air so that it rotates, in an attempt to land it upright on its bottom has recently become international trend. Describe the bottle rotation dynamics and investigate which of relevant parametres help perform this challenge successfully.]]></question>
+                <title><![CDATA[ID2018125]]></title>
+                <question>
+                    <![CDATA[<p>Theremin</p><p>Construct a Theremin instrument where the pitch and volume can be varied via non-contact hand movements. Investigate the parameters which affect the pitch and volume and attempt to create a notation which would allow someone to play a simple tune.</p>]]></question>
                 <preg/>
                 <help/>
                 <other><![CDATA[N]]></other>
